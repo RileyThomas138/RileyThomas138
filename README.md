@@ -1,6 +1,6 @@
-<h1>Hi, I'm Riley! <br/><a href="https://www.linkedin.com/in/riley-thomas-a42698222/">IT Professional</a>, <a 
+<h1>Hi, I'm Riley! <br/><a href="https://www.linkedin.com/in/riley-thomas-a42698222/">IT Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
