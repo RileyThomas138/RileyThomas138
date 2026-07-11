@@ -12,8 +12,8 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> My Certifications:</h2>
-<a href="https://www.linkedin.com/in/riley-thomas-a42698222/">CompTIA Security+ </a>
-<a href="https://www.linkedin.com/in/riley-thomas-a42698222/">CompTIA Network+ </a>
+<a href="https://www.credly.com/badges/745c9833-e573-49e6-8495-28931dad5a7e/public_url">CompTIA Security+ </a>
+<a href="https://www.credly.com/badges/7c413b55-f417-45fe-ab0f-c1db1ac36d29/public_url">CompTIA Network+ </a>
 <a href="https://www.credly.com/badges/b33e9dd8-e4a4-4dc3-bfc2-4a76e8b502fb/public_url">CompTIA A+ </a>
 
 <h2> 🤳 Connect with me:</h2>
