@@ -11,7 +11,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b33e9dd8-e4a4-4dc3-bfc2-4a76e8b502fb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<h2> My Certifications:</h2>
+<a href="https://www.linkedin.com/in/riley-thomas-a42698222/">Linkedin</a>
+<a href="https://www.linkedin.com/in/riley-thomas-a42698222/">Linkedin</a>
+<a href="[https://www.linkedin.com/in/riley-thomas-a42698222/](https://www.credly.com/badges/b33e9dd8-e4a4-4dc3-bfc2-4a76e8b502fb/public_url)">CompTIA A+</a>
 
 <h2> 🤳 Connect with me:</h2>
 
