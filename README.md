@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/RileyThomas138">Programmer</a>, <a href="https://www.linkedin.com/in/riley-thomas-a42698222/">IT Professional</a>, <a 
+<h1>Hi, I'm Riley! <br/><a href="https://www.linkedin.com/in/riley-thomas-a42698222/">IT Professional</a>, <a 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
